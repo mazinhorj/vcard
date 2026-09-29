@@ -2,7 +2,7 @@
 
 Cartão de visitas digital interativo, responsivo e com suporte a efeito 3D Flip, desenvolvido com foco em performance, acessibilidade e design voltado para Engenharia de Software.
 
-🔗 **Acesse online:** [https://mazinhorj.github.io/vcard/mzcard.html](https://mazinhorj.github.io/vcard/mzcard.html)
+🔗 **Acesse online:** [https://mazinhorj.github.io/vcard/](https://mazinhorj.github.io/vcard/)
 
 ---
 
